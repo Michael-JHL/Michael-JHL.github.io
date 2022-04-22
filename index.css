@@ -2,11 +2,12 @@
     background-color: black;
 }
 
-body{
+body{ 
     text-align: center;
 }
 
-h1{
+h1{ 
+    background-color: aqua;
     color: azure;
 }
  h2{
