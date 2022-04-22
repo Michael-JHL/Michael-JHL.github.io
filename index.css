@@ -4,5 +4,17 @@
 
 body{
     text-align: center;
-    text-decoration: aliceblue;
+}
+
+h1{
+    color: azure;
+}
+ h2{
+     color: azure;
+ }
+ h3{
+     color: azure;
+ }
+#sonido{
+  background-color: aqua;
 }
