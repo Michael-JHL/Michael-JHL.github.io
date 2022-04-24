@@ -1,13 +1,25 @@
-*{
+/**{
     background-color: black;
+}*/
+body{
+    
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
 }
-
-body{ 
+main{
     text-align: center;
 }
 
-h1{ 
-    background-color: aqua;
+.paginas{
+    text-decoration: none;
+    font-weight: 550;
+}
+
+ h1{
+    font-weight: 1000;
+    
+
 }
  h2{
      color: azure;
@@ -15,6 +27,6 @@ h1{
  h3{
      color: azure;
  }
-#sonido{
-  background-color: aqua;
+.sonido{
+    color: aqua;
 }
