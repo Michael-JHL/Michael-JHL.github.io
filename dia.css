@@ -1,0 +1,29 @@
+body{
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+main{
+    text-align: center;
+}
+.paginas{
+    text-decoration: none;
+    font-weight: 550;
+}
+
+.amor{
+    color: red;
+}
+
+.tituloP{
+    font-weight: 600;
+    color: black;
+}
+.titulo{
+    color: black;
+}
+
+p{
+    font-weight: 550;
+    color: aqua;
+}
