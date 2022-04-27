@@ -19,6 +19,10 @@ main{
     font-weight: 600;
     color: black;
 }
+.fecha{
+    font-weight: 600;
+    color: black;
+}
 .titulo{
     color: black;
 }
@@ -27,3 +31,7 @@ p{
     font-weight: 550;
     color: aqua;
 }
+
+/*sonido{
+
+}*/
