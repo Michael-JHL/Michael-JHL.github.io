@@ -1,35 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body{
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
+    
 }
 main{
     text-align: center;
+    padding-top: 2%;
 }
 .paginas{
     text-decoration: none;
     font-weight: 550;
+
+    max-width: 1000px;
+	width: 90%;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
 }
 
+.inicio{
+    background: #070707;
+}
+.inicio a{
+    color: #fff;
+	display: inline-block;
+	padding: 20px;
+	width: 100%;
+	text-align: center;
+	color: rgb(240, 232, 232);
+	transition: .3s ease-out all;
+}
+.inicio a:hover{
+    background: #809baf;
+	color: #fff;
+	text-decoration: none;
+}
 .amor{
     color: red;
+    padding: 20px 0px 20px 0px;
 }
 
 .tituloP{
     font-weight: 600;
     color: black;
+    padding: 20px 0px 20px 0px;
 }
 .fecha{
     font-weight: 600;
     color: black;
+    padding-top: 0;
+    padding: 10px 0px 10px 0px;
 }
 .titulo{
     color: black;
+    padding: 10px 0px 10px 0px;
 }
 
 p{
     font-weight: 550;
     color: aqua;
+    padding: 10px 0px 10px 0px;
+}
+.audios{
+    padding: 20px 0px 20px 0px;
 }
 
 /*sonido{

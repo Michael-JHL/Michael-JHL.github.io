@@ -1,7 +1,8 @@
-/**{
-   background-color: black;
-   
-}*/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
 
 body{
     
@@ -13,8 +14,31 @@ body{
 .paginas{
     text-decoration: none;
     font-weight: 550;
+
+    max-width: 1000px;
+	width: 90%;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
 }
 
+.inicio{
+    background: #070707;
+}
+.inicio a{
+    color: #fff;
+	display: inline-block;
+	padding: 20px;
+	width: 100%;
+	text-align: center;
+	color: rgb(240, 232, 232);
+	transition: .3s ease-out all;
+}
+.inicio a:hover{
+    background: #809baf;
+	color: #fff;
+	text-decoration: none;
+}
 img{
   border-radius: 7px;
   position: relative;
@@ -33,4 +57,7 @@ img{
 .titulo{
     color: black;
     font-weight: 1000;
+}
+#cuerpo{
+    padding-left: 5%;
 }
