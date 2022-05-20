@@ -9,17 +9,25 @@ body{
     background-position: center center;
     background-size: cover;
 }
-main{
+    main{
     text-align: center;
     
 }
 .corazon{
-    padding: 20px 0px 20px 0px;
+    width: 90%;
+    margin-top: 2%;
+    margin-left: 4%;
+    left: 20px;
+    font-weight: 550;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
 }
 .paginas{
     text-decoration: none;
     font-weight: 550;
-
     max-width: 1000px;
 	width: 90%;
 	margin: auto;
