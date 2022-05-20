@@ -12,3 +12,27 @@ body{
 .corazon{
     padding: 20px 0px 20px 0px;
 }
+.paginas{
+    text-decoration: none;
+    font-weight: 550;
+
+    max-width: 1000px;
+	width: 90%;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+}
+.inicio a{
+    color: #fff;
+	display: inline-block;
+	padding: 20px;
+	width: 100%;
+	text-align: center;
+	color: rgb(240, 232, 232);
+	transition: .3s ease-out all;
+}
+.inicio a:hover{
+    background: #809baf;
+	color: #fff;
+	text-decoration: none;
+}
