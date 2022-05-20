@@ -9,6 +9,10 @@ body{
     background-position: center center;
     background-size: cover;
 }
+main{
+    text-align: center;
+    
+}
 .corazon{
     padding: 20px 0px 20px 0px;
 }
