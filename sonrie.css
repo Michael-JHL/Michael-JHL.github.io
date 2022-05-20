@@ -26,6 +26,9 @@ main{
 	display: flex;
 	justify-content: space-between;
 }
+.inicio{
+    background: #070707;
+}
 .inicio a{
     color: #fff;
 	display: inline-block;
